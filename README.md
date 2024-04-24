@@ -1,4 +1,4 @@
-# MERn based Chat Application 
+# MERN based Chat Application 
 This is chat application build with the power of MERN Stack. 
 
 
