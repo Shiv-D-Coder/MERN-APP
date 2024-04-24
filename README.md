@@ -6,6 +6,7 @@ This is chat application build with the power of MERN Stack.
 
 ### Requirements
 - [Nodejs](https://nodejs.org/en/download)
+- [React](https://react.dev/)
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
 
 Both should be installed and make sure mongodb is running.
